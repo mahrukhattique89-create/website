@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mahrukhattique89-create.github.io/Jagranvi/sitemap.xml
